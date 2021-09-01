@@ -19,10 +19,10 @@ Chapter02   Information: The Foundation of an Apps
     01. Proxim                                              ==> 使用 AES 加密存储在本地的数据
 
 Chapter03   Android Security Architecture
-
+    03. ZenLibrary                                          ==> 演示自定义权限的使用示例程序
 
 Chapter04   Concepts in Action - Part 1
-
+    内容无意义，示例代码是第 2 章的拷贝，在此就不创建示例工程了，可以参照第 2 章的 Proxim 示例程序
 
 Chapter05   Data Storage and Cryptography
 
