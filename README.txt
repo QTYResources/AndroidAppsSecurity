@@ -25,7 +25,10 @@ Chapter04   Concepts in Action - Part 1
     内容无意义，示例代码是第 2 章的拷贝，在此就不创建示例工程了，可以参照第 2 章的 Proxim 示例程序
 
 Chapter05   Data Storage and Cryptography
-
+    01. CryptoExample1                                      ==> 使用 AES/CBC/ZeroBytePadding 算法加解密数据
+    02. StorageExample1                                     ==> 使用 SharedPreference 保存数据
+    03. StorageExample2                                     ==> 使用 Context.openFileOutput() 和 Context.openFileInput() 方法保存数据
+    04. StorageExample3                                     ==> 先加密数据然后再保存数据到 Database 中
 
 Chapter06   Talking to Web Apps
 
