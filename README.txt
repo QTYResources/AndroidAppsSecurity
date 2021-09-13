@@ -31,7 +31,8 @@ Chapter05   Data Storage and Cryptography
     04. StorageExample3                                     ==> 先加密数据然后再保存数据到 Database 中
 
 Chapter06   Talking to Web Apps
-
+    01. LoginDemo                                           ==> 
+    02. LoginDemoClient1                                    ==>
 
 Chapter07   Security in the Enterprise
 
