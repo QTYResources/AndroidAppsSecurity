@@ -31,11 +31,15 @@ Chapter05   Data Storage and Cryptography
     04. StorageExample3                                     ==> 先加密数据然后再保存数据到 Database 中
 
 Chapter06   Talking to Web Apps
-    01. LoginDemo                                           ==> 
-    02. LoginDemoClient1                                    ==>
+    01. LoginDemo                                           ==> Login 后台服务程序
+    02. LoginDemoClient1                                    ==> 使用 POST 请求登录
 
 Chapter07   Security in the Enterprise
-
+    01. MySQLConnect                                        ==> 使用 Java 访问 MySQL 数据库
+    02. RESTFetch                                           ==> 从网络上下载 xml 内容，并解析
+    03. RESTJSON                                            ==> 从网络上下载 json 内容，并解析
+    04. Services/XmlService.js                              ==> xml 内容服务器代码
+    05. Services/JsonService.js                             ==> json 内容服务器代码
 
 Chapter08   Concepts in Action: Part 2
 

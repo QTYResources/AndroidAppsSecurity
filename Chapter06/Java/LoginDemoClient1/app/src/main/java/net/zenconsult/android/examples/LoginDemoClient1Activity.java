@@ -8,6 +8,7 @@ import android.view.View;
 import android.widget.EditText;
 
 import java.io.IOException;
+import java.util.Arrays;
 
 public class LoginDemoClient1Activity extends AppCompatActivity {
 
