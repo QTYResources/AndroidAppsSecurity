@@ -1,0 +1,5 @@
+<resources>
+    <string name="hello">Hello World, ChallengeResponseClientActivity!</string>
+    <string name="app_name">Challenge Response Client</string>
+    <string name="auth">Login</string>
+</resources>
