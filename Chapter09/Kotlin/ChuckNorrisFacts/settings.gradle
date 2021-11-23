@@ -1,0 +1,3 @@
+rootProject.name = "ChuckNorrisFacts"
+include ':app'
+include ':market_licensing'
