@@ -42,9 +42,12 @@ Chapter07   Security in the Enterprise
     05. Services/JsonService.js                             ==> json 内容服务器代码
 
 Chapter08   Concepts in Action: Part 2
-
+    01. OAuthPicasa                                         ==> OAuth 认证请求示例
+    02. ChallengeResponseClient                             ==> 挑战字响应示例
 
 Chapter09   Publishing and Selling Your Apps
-
+    01. ChuckNorrisFacts                                    ==> 谷歌许可证检验示例
+    02. LicenseCheck                                        ==> 混淆代码示例
 
 Chapter10   Malware and Spyware
+    无代码
